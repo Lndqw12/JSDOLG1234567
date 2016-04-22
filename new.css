@@ -1,0 +1,27 @@
+.q1 {
+	height:30px;
+	width:150px;
+	border-style:solid;
+	text-align:center;
+	font-family:impact;
+	word-break:break-all;
+}
+.q2 {
+	height:30px;
+	width:150px;
+	border-style:solid;
+	text-align:center;
+	font-family:impact;
+	word-break:break-all;
+}
+.q3 {
+	height:30px;
+	width:150px;
+	border-style:solid;
+	text-align:center;
+	font-family:impact;
+	word-break:break-all;
+}
+#block_id {
+	display: none;
+}
